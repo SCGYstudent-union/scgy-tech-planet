@@ -21,3 +21,8 @@ https://gitee.com/libreliu/scgy-tech/blob/master/old-lectures/Elementary%20Front
 https://gitee.com/libreliu/scgy-tech/blob/master/old-lectures/web_basic_lecture_revision_3_%E8%A1%A5%E4%B8%8A%E4%BA%86%E5%90%83%E7%9A%84%E9%82%A3%E9%A1%B5.ppt
 
 https://gitee.com/libreliu/scgy-tech/blob/master/old-lectures/2015-Web-Design-Lecture-master.rar
+
+## git教程
+
+[Git快速入门教程](./git_cheat_sheet.md)
+
